@@ -53,9 +53,14 @@ nav  img {
 
 }
 
+body {
+  padding-top: 50px;
+
+}
+
 
 .jumbotron {
-background-image: url('img/header-image-option-1.JPG');
+background-image: url('img/lifestyle/1000px-wide-2.jpg');
 
 height: 100%;
 width: 100%;
